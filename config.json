@@ -1,0 +1,11 @@
+{
+"time_format" : "%Y-%m-%d-%H-%M-%S",
+"time_format_day" : "%Y-%m-%d",
+"data_folder" : "/home/ceja/Documents/projekt/exported/",
+"image_folder" : "/home/ceja/Documents/projekt/processed_imgs/",
+"detected_image_folder" : "/home/ceja/Documents/projekt/detected_images/",
+  "image_folder2" : "/home/ceja/Documents/projekt/processed_imgs2/",
+"report_folder" : "/home/ceja/Documents/projekt/stats/",
+"save_data": true,
+"display": true
+}
